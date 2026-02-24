@@ -59,6 +59,6 @@ Long-term structure over short-term fixes.
 
 🌐 https://evoris.vip
 
-💼 LinkedIn: https://linkedin.com/company/evoris
+💼 LinkedIn: https://www.linkedin.com/company/evorissoftware
 
-📸 Instagram: https://instagram.com/evoris
+📸 Instagram: https://instagram.com/evoris.vip
