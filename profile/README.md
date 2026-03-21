@@ -40,19 +40,14 @@
 <h3 align="center">🚀 Featured Systems & Projects</h3>
 
 <div align="center">
-  <a href="https://github.com/Evoris-Software/controle_compras_familiar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evoris-Software&repo=controle_compras_familiar&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Evoris-Software/ludus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evoris-Software&repo=ludus&theme=tokyonight&hide_border=true" />
-  </a>
-  <br/>
-  <a href="https://github.com/Evoris-Software/city_beneficios">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evoris-Software&repo=city_beneficios&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Evoris-Software/alexia_brandao">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evoris-Software&repo=alexia_brandao&theme=tokyonight&hide_border=true" />
-  </a>
+
+| 🏆 System | 💡 Purpose | ⚙️ Architecture |
+| :--- | :--- | :--- |
+| **City Benefícios** | Corporate Benefits & Automation | `Next.js` `FastAPI` `PostgreSQL` |
+| **Controle Compras** | Procurement & Resource Management | `React` `Node.js` `AWS` |
+| **Kairos Web** | Strategic Business Dashboard | `TypeScript` `Express` `Redis` |
+| **Platform Ludus** | Specialized B2B Service Platform | `Vue` `Django` `Docker` |
+
 </div>
 
 <br/>
